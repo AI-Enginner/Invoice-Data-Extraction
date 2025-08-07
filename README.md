@@ -3,8 +3,6 @@ Extract Data from Invoices with AI. Stop wasting hours on manual invoice data en
 
 **AI Agent for extracting structured data from PDF invoices, receipts, and financial documents using advanced AI and OCR technologies**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 ## Overview
 
 This comprehensive repository provides everything you need for **automated invoice data extraction** and **PDF document processing**. Built for developers, accountants, and businesses who need to process invoices, receipts, and financial documents at scale with near-perfect accuracy.
